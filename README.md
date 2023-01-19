@@ -15,4 +15,4 @@ Input:
 
 Output:
 ---
-**simple interest** = *p* x *t* x *r*
+**simple interest** = *p* * *t* * *r*
